@@ -1,5 +1,5 @@
 # Project3
-## To run the web server simply type in your terminal
+## To run the web server you need to install textblob and Flask then simply type in your terminal
 ``` python3 main.py ```
 ## Then head to http://localhost:5000 
 
